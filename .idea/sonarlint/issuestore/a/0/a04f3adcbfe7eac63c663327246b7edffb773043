@@ -1,0 +1,21 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áƒ°˜øÿÿÿÿ8 æ²Ç±1
+u
+java:S1450"XRemove the "btnAccept" field and declare it as a local variable in the relevant methods.(Í¯°µ8ºæ²Ç±1
+y
+java:S1450"\Remove the "textvdeclined" field and declare it as a local variable in the relevant methods.(½ÚÏ³8ºæ²Ç±1
+x
+java:S1450"VRemove the "webView" field and declare it as a local variable in the relevant methods.(„Â ¿þÿÿÿÿ8ºæ²Ç±1
+^
+java:S1874-"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(öÊÛ®8Áæ²Ç±1
+_
+java:S1874."=Remove this use of "setSystemUiVisibility"; it is deprecated.(ü†Ý©øÿÿÿÿ8Áæ²Ç±1
+N
+java:S1602a",Remove useless curly braces around statement(š‡ƒàþÿÿÿÿ8Èæ²Ç±1
+I
+java:S1602n",Remove useless curly braces around statement(äÙ”Ô8Éæ²Ç±1
+N
+java:S1602r",Remove useless curly braces around statement(²ÉÅóøÿÿÿÿ8Êæ²Ç±1
+p	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´­µõùÿÿÿÿ8Ìæ²Ç±1
+Z
+java:S1068"8Remove this unused "moonPrincessCardView" private field.(‰Â¶…øÿÿÿÿ8ëÖ·Ç±1

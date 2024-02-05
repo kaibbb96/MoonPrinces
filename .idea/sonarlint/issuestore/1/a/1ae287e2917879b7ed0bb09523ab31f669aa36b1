@@ -1,0 +1,29 @@
+
+g	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8³û¨Ê±1
+r	java:S116"WRename this field "MoonPrincess" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓĞÙt8Îû¨Ê±1
+I
+java:S1874(",Remove this use of "loop"; it is deprecated.(Ú¯•ğ8åİ¬Ê±1
+^
+java:S1874."ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(öÊÛ®8‰ü¨Ê±1
+_
+java:S1874/"=Remove this use of "setSystemUiVisibility"; it is deprecated.(ü†İ©øÿÿÿÿ8‰ü¨Ê±1
+S
+java:S2696G"6Make the enclosing method "static" or remove this set.(ş™å±8ü¨Ê±1
+R
+java:S2209G"5Change this instance-reference to a static reference.(ş™å±8‘ü¨Ê±1
+[
+java:S1874R"9Remove this use of "JsonObjectRequest"; it is deprecated.(íîÌ˜úÿÿÿÿ8•ü¨Ê±1
+R
+java:S2696U"6Make the enclosing method "static" or remove this set.(À™ :8–ü¨Ê±1
+Q
+java:S2209U"5Change this instance-reference to a static reference.(À™ :8–ü¨Ê±1
+X
+java:S2696V"6Make the enclosing method "static" or remove this set.(¦¿ˆîùÿÿÿÿ8—ü¨Ê±1
+W
+java:S2209V"5Change this instance-reference to a static reference.(¦¿ˆîùÿÿÿÿ8—ü¨Ê±1
+Q
+java:S1874["/Remove this use of "Handler"; it is deprecated.(’àŞ–úÿÿÿÿ8§ü¨Ê±1
+Q
+java:S1874e"/Remove this use of "Handler"; it is deprecated.(’àŞ–úÿÿÿÿ8ğ¼µÊ±1
+N
+java:S1602s",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8¨ü¨Ê±1

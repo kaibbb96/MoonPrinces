@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>policyURL</key>
+        <value>https://brlapps.site/policy</value>
+
+        <key>apiURL</key>
+        <value>https://brlapps.site/api/clientid</value>
+    </entry>
+
+</defaultsMap>
